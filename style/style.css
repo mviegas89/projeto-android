@@ -86,10 +86,8 @@ section > h2{
 #h3_section_final{
     background-color: darkgreen;
 }
-#section_ultima{
-    border-radius: 0px 0px 10px 10px;
-    height: 75px;
-}
+
+
 #video{
     background-color: darkgreen;
     text-align: center;

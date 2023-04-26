@@ -151,3 +151,6 @@ ul{
     columns: 2;
     list-style-type: '\2714\00A0\00A0';
 }
+img{
+    min-width: 400px;
+}

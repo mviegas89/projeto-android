@@ -126,7 +126,8 @@ a{
     color: white;
 }
 footer{
-    height: 60px;        
+    height: 60px; 
+    padding-bottom: 10px;       
 }
 footer p {
     text-align: center;
